@@ -1,0 +1,2833 @@
+{
+  "leader": "30925",
+  "match_status": "Complete",
+  "format": "FCS",
+  "scorecards": [{
+    "holes": [{
+      "hole": "1",
+      "winner": "30925",
+      "score_status": "1U"
+    }, {
+      "hole": "2",
+      "winner": "30925",
+      "score_status": "2U"
+    }, {
+      "hole": "3",
+      "winner": "",
+      "score_status": "2U"
+    }, {
+      "hole": "4",
+      "winner": "30925",
+      "score_status": "3U"
+    }, {
+      "hole": "5",
+      "winner": "30925",
+      "score_status": "4U"
+    }, {
+      "hole": "6",
+      "winner": "30925",
+      "score_status": "5U"
+    }, {
+      "hole": "7",
+      "winner": "30925",
+      "score_status": "6U"
+    }, {
+      "hole": "8",
+      "winner": "",
+      "score_status": "6U"
+    }, {
+      "hole": "9",
+      "winner": "",
+      "score_status": "6U"
+    }, {
+      "hole": "10",
+      "winner": "",
+      "score_status": "6U"
+    }, {
+      "hole": "11",
+      "winner": "25632",
+      "score_status": "5U"
+    }, {
+      "hole": "12",
+      "winner": "25632",
+      "score_status": "4U"
+    }, {
+      "hole": "13",
+      "winner": "",
+      "score_status": "4U"
+    }, {
+      "hole": "14",
+      "winner": "",
+      "score_status": "4U"
+    }, {
+      "hole": "15",
+      "winner": "30925",
+      "score_status": "5U"
+    }, {
+      "hole": "16",
+      "winner": "",
+      "score_status": ""
+    }, {
+      "hole": "17",
+      "winner": "",
+      "score_status": ""
+    }, {
+      "hole": "18",
+      "winner": "",
+      "score_status": ""
+    }],
+    "pid": "30925",
+    "scorecard": {
+      "round_scorecard": {
+        "current_round": false,
+        "round": "3",
+        "course_id": "185",
+        "current_hole": "dafuq is this value come from",
+        "group_id": "95",
+        "holes": [{
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "1",
+          "putts": "dafuq is this",
+          "strokes": "3",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "334",
+              "from": {
+                "x": "10592.8",
+                "y": "10520.4",
+                "z": "596.255"
+              },
+              "point": {
+                "x": "11103.667",
+                "y": "9658.512",
+                "z": "11103.667"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "106",
+              "description": "Shot 1 334 yds to unknown, 107 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "96",
+              "from": {
+                "x": "11103.667",
+                "y": "9658.512",
+                "z": "11103.667"
+              },
+              "point": {
+                "x": "11393.035",
+                "y": "9685.605",
+                "z": "11393.035"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "10",
+              "description": "Shot 2 97 yds to green, 30 ft 11 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "10",
+              "from": {
+                "x": "11393.035",
+                "y": "9685.605",
+                "z": "11393.035"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 3 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "394",
+          "hole": "1",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": "1U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "1",
+          "putts": "dafuq is this",
+          "strokes": "4",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "277",
+              "from": {
+                "x": "11503.1",
+                "y": "9597.09",
+                "z": "580.03"
+              },
+              "point": {
+                "x": "10878.581",
+                "y": "9044.953",
+                "z": "10878.581"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "200",
+              "description": "Shot 1 278 yds to right fairway, 200 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "187",
+              "from": {
+                "x": "10878.581",
+                "y": "9044.953",
+                "z": "10878.581"
+              },
+              "point": {
+                "x": "10775.288",
+                "y": "8491.129",
+                "z": "10775.288"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "12",
+              "description": "Shot 2 188 yds to green, 38 ft 1 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "12",
+              "from": {
+                "x": "10775.288",
+                "y": "8491.129",
+                "z": "10775.288"
+              },
+              "point": {
+                "x": "10759.190",
+                "y": "8457.003",
+                "z": "10759.190"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "15''",
+              "description": "Shot 3 putt 37 ft 9 in., 15 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "4",
+              "distance": "0",
+              "from": {
+                "x": "10759.190",
+                "y": "8457.003",
+                "z": "10759.190"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 4 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "470",
+          "hole": "2",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": "2U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "0",
+          "putts": "dafuq is this",
+          "strokes": "4",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "298",
+              "from": {
+                "x": "10650",
+                "y": "8549.27",
+                "z": "595.725"
+              },
+              "point": {
+                "x": "9971.642",
+                "y": "7962.549",
+                "z": "9971.642"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "123",
+              "description": "Shot 1 299 yds to right fairway, 123 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "123",
+              "from": {
+                "x": "9971.642",
+                "y": "7962.549",
+                "z": "9971.642"
+              },
+              "point": {
+                "x": "9805.024",
+                "y": "7632.048",
+                "z": "9805.024"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "25.0'",
+              "description": "Shot 2 123 yds to green, 24 ft 1 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "9",
+              "from": {
+                "x": "9805.024",
+                "y": "7632.048",
+                "z": "9805.024"
+              },
+              "point": {
+                "x": "9829.749",
+                "y": "7620.946",
+                "z": "9829.749"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "33''",
+              "description": "Shot 3 putt 27 ft 1 in., 2 ft 9 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "4",
+              "distance": "0",
+              "from": {
+                "x": "9829.749",
+                "y": "7620.946",
+                "z": "9829.749"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 4 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "440",
+          "hole": "3",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": "2U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "1",
+          "putts": "dafuq is this",
+          "strokes": "3",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "187",
+              "from": {
+                "x": "9902.04",
+                "y": "7465.58",
+                "z": "631.417"
+              },
+              "point": {
+                "x": "9438.143",
+                "y": "7145.137",
+                "z": "9438.143"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "21",
+              "description": "Shot 1 188 yds to green, 65 ft 11 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "22",
+              "from": {
+                "x": "9438.143",
+                "y": "7145.137",
+                "z": "9438.143"
+              },
+              "point": {
+                "x": "9470.183",
+                "y": "7204.393",
+                "z": "9470.183"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "15.0'",
+              "description": "Shot 2 putt 67 ft 5 in., 14 ft 7 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "4",
+              "from": {
+                "x": "9470.183",
+                "y": "7204.393",
+                "z": "9470.183"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 3 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "185",
+          "hole": "4",
+          "fir": false,
+          "par": "3",
+          "to_par": "dafuq is this",
+          "status": "3U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "1",
+          "putts": "dafuq is this",
+          "strokes": "4",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "318",
+              "from": {
+                "x": "9315.62",
+                "y": "7166.84",
+                "z": "642.713"
+              },
+              "point": {
+                "x": "9767.458",
+                "y": "8007.783",
+                "z": "9767.458"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "49",
+              "description": "Shot 1 318 yds to right fairway, 49 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "52",
+              "from": {
+                "x": "9767.458",
+                "y": "8007.783",
+                "z": "9767.458"
+              },
+              "point": {
+                "x": "9844.047",
+                "y": "8145.203",
+                "z": "9844.047"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "24.0'",
+              "description": "Shot 2 52 yds to green, 23 ft 10 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "7",
+              "from": {
+                "x": "9844.047",
+                "y": "8145.203",
+                "z": "9844.047"
+              },
+              "point": {
+                "x": "9857.965",
+                "y": "8125.752",
+                "z": "9857.965"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "4''",
+              "description": "Shot 3 putt 23 ft 11 in., 4 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "4",
+              "distance": "0",
+              "from": {
+                "x": "9857.965",
+                "y": "8125.752",
+                "z": "9857.965"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 4 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "370",
+          "hole": "5",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": "4U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "1",
+          "putts": "dafuq is this",
+          "strokes": "3",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "344",
+              "from": {
+                "x": "9953.05",
+                "y": "8148.92",
+                "z": "634.021"
+              },
+              "point": {
+                "x": "10529.800",
+                "y": "9007.080",
+                "z": "10529.800"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "230",
+              "description": "Shot 1 345 yds to right fairway, 230 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "228",
+              "from": {
+                "x": "10529.800",
+                "y": "9007.080",
+                "z": "10529.800"
+              },
+              "point": {
+                "x": "10913.244",
+                "y": "9573.527",
+                "z": "10913.244"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "12.0'",
+              "description": "Shot 2 228 yds to green, 11 ft 7 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "3",
+              "from": {
+                "x": "10913.244",
+                "y": "9573.527",
+                "z": "10913.244"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 3 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "590",
+          "hole": "6",
+          "fir": false,
+          "par": "5",
+          "to_par": "dafuq is this",
+          "status": "5U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "1",
+          "putts": "dafuq is this",
+          "strokes": "2",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "184",
+              "from": {
+                "x": "10681.6",
+                "y": "9519.44",
+                "z": "629.022"
+              },
+              "point": {
+                "x": "10306.631",
+                "y": "9927.016",
+                "z": "10306.631"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "4.0'",
+              "description": "Shot 1 185 yds to green, 3 ft 1 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "1",
+              "from": {
+                "x": "10306.631",
+                "y": "9927.016",
+                "z": "10306.631"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 2 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "201",
+          "hole": "7",
+          "fir": false,
+          "par": "3",
+          "to_par": "dafuq is this",
+          "status": "6U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "0",
+          "putts": "dafuq is this",
+          "strokes": "3",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "340",
+              "from": {
+                "x": "9957.37",
+                "y": "10312",
+                "z": "612.402"
+              },
+              "point": {
+                "x": "9196.332",
+                "y": "9631.792",
+                "z": "9196.332"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "143",
+              "description": "Shot 1 340 yds to right fairway, 144 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "138",
+              "from": {
+                "x": "9196.332",
+                "y": "9631.792",
+                "z": "9196.332"
+              },
+              "point": {
+                "x": "8887.712",
+                "y": "9354.497",
+                "z": "8887.712"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "18.0'",
+              "description": "Shot 2 139 yds to green, 17 ft 4 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "5",
+              "from": {
+                "x": "8887.712",
+                "y": "9354.497",
+                "z": "8887.712"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 3 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "498",
+          "hole": "8",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": "6U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "0",
+          "putts": "dafuq is this",
+          "strokes": "4",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "335",
+              "from": {
+                "x": "8645.29",
+                "y": "9379.23",
+                "z": "659.049"
+              },
+              "point": {
+                "x": "9366.689",
+                "y": "10077.421",
+                "z": "9366.689"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "122",
+              "description": "Shot 1 335 yds to right fairway, 123 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "109",
+              "from": {
+                "x": "9366.689",
+                "y": "10077.421",
+                "z": "9366.689"
+              },
+              "point": {
+                "x": "9650.983",
+                "y": "10243.297",
+                "z": "9650.983"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "13",
+              "description": "Shot 2 110 yds to green, 39 ft 2 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "13",
+              "from": {
+                "x": "9650.983",
+                "y": "10243.297",
+                "z": "9650.983"
+              },
+              "point": {
+                "x": "9682.505",
+                "y": "10268.858",
+                "z": "9682.505"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "16''",
+              "description": "Shot 3 putt 40 ft 7 in., 16 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "4",
+              "distance": "0",
+              "from": {
+                "x": "9682.505",
+                "y": "10268.858",
+                "z": "9682.505"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 4 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "490",
+          "hole": "9",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": "6U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "0",
+          "putts": "dafuq is this",
+          "strokes": "4",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "275",
+              "from": {
+                "x": "10867.3",
+                "y": "10876.3",
+                "z": "583.689"
+              },
+              "point": {
+                "x": "11437.754",
+                "y": "10277.800",
+                "z": "11437.754"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "117",
+              "description": "Shot 1 276 yds to left fairway, 117 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "120",
+              "from": {
+                "x": "11437.754",
+                "y": "10277.800",
+                "z": "11437.754"
+              },
+              "point": {
+                "x": "11799.996",
+                "y": "10280.756",
+                "z": "11799.996"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "12.0'",
+              "description": "Shot 2 121 yds to green, 11 ft 10 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "4",
+              "from": {
+                "x": "11799.996",
+                "y": "10280.756",
+                "z": "11799.996"
+              },
+              "point": {
+                "x": "11789.181",
+                "y": "10286.243",
+                "z": "11789.181"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "1''",
+              "description": "Shot 3 putt 12 ft 2 in., 1 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "4",
+              "distance": "0",
+              "from": {
+                "x": "11789.181",
+                "y": "10286.243",
+                "z": "11789.181"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 4 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "393",
+          "hole": "10",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": "6U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "-1",
+          "putts": "dafuq is this",
+          "strokes": "3",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "175",
+              "from": {
+                "x": "11524.9",
+                "y": "10439.9",
+                "z": "573.007"
+              },
+              "point": {
+                "x": "11212.684",
+                "y": "10862.602",
+                "z": "11212.684"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "25.0'",
+              "description": "Shot 1 175 yds to fringe, 24 ft 11 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "7",
+              "from": {
+                "x": "11212.684",
+                "y": "10862.602",
+                "z": "11212.684"
+              },
+              "point": {
+                "x": "11200.784",
+                "y": "10844.611",
+                "z": "11200.784"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "4.0'",
+              "description": "Shot 2 21 ft 7 in. to green, 3 ft 4 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "1",
+              "from": {
+                "x": "11200.784",
+                "y": "10844.611",
+                "z": "11200.784"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 3 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "194",
+          "hole": "11",
+          "fir": false,
+          "par": "3",
+          "to_par": "dafuq is this",
+          "status": "5U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "-1",
+          "putts": "dafuq is this",
+          "strokes": "5",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "325",
+              "from": {
+                "x": "11061.1",
+                "y": "10782.8",
+                "z": "578.4"
+              },
+              "point": {
+                "x": "10841.986",
+                "y": "11731.068",
+                "z": "10841.986"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "232",
+              "description": "Shot 1 325 yds to right rough, 233 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "264",
+              "from": {
+                "x": "10841.986",
+                "y": "11731.068",
+                "z": "10841.986"
+              },
+              "point": {
+                "x": "10708.208",
+                "y": "12512.333",
+                "z": "10708.208"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "36",
+              "description": "Shot 2 264 yds to right rough, 37 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "24",
+              "from": {
+                "x": "10708.208",
+                "y": "12512.333",
+                "z": "10708.208"
+              },
+              "point": {
+                "x": "10761.674",
+                "y": "12463.338",
+                "z": "10761.674"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "35",
+              "description": "Drop in right rough, 36 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "17",
+              "from": {
+                "x": "10761.674",
+                "y": "12463.338",
+                "z": "10761.674"
+              },
+              "point": {
+                "x": "10715.263",
+                "y": "12435.878",
+                "z": "10715.263"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "17",
+              "description": "Shot 3 53 ft 11 in. to right fairway, 53 ft 0 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "4",
+              "distance": "17",
+              "from": {
+                "x": "10715.263",
+                "y": "12435.878",
+                "z": "10715.263"
+              },
+              "point": {
+                "x": "10669.745",
+                "y": "12409.086",
+                "z": "10669.745"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "11''",
+              "description": "Shot 4 52 ft 10 in. to green, 11 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "5",
+              "distance": "0",
+              "from": {
+                "x": "10669.745",
+                "y": "12409.086",
+                "z": "10669.745"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 5 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "578",
+          "hole": "12",
+          "fir": false,
+          "par": "5",
+          "to_par": "dafuq is this",
+          "status": "4U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "0",
+          "putts": "dafuq is this",
+          "strokes": "3",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "200",
+              "from": {
+                "x": "10783.4",
+                "y": "12653",
+                "z": "494.846"
+              },
+              "point": {
+                "x": "11005.793",
+                "y": "12094.958",
+                "z": "11005.793"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "105",
+              "description": "Shot 1 200 yds to right fairway, 106 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "106",
+              "from": {
+                "x": "11005.793",
+                "y": "12094.958",
+                "z": "11005.793"
+              },
+              "point": {
+                "x": "11311.987",
+                "y": "12004.709",
+                "z": "11311.987"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "21''",
+              "description": "Shot 2 106 yds to green, 21 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "0",
+              "from": {
+                "x": "11311.987",
+                "y": "12004.709",
+                "z": "11311.987"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 3 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "317",
+          "hole": "13",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": "4U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "0",
+          "putts": "dafuq is this",
+          "strokes": "4",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "298",
+              "from": {
+                "x": "11302.7",
+                "y": "12228.4",
+                "z": "497.154"
+              },
+              "point": {
+                "x": "11811.606",
+                "y": "11492.159",
+                "z": "11811.606"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "181",
+              "description": "Shot 1 298 yds to right rough, 182 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "192",
+              "from": {
+                "x": "11811.606",
+                "y": "11492.159",
+                "z": "11811.606"
+              },
+              "point": {
+                "x": "12343.899",
+                "y": "11269.168",
+                "z": "12343.899"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "13",
+              "description": "Shot 2 192 yds to native area, 39 ft 4 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "20",
+              "from": {
+                "x": "12343.899",
+                "y": "11269.168",
+                "z": "12343.899"
+              },
+              "point": {
+                "x": "12283.237",
+                "y": "11269.452",
+                "z": "12283.237"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "24.0'",
+              "description": "Shot 3 60 ft 8 in. to green, 23 ft 3 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "4",
+              "distance": "7",
+              "from": {
+                "x": "12283.237",
+                "y": "11269.452",
+                "z": "12283.237"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 4 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "465",
+          "hole": "14",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": "4U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "1",
+          "putts": "dafuq is this",
+          "strokes": "4",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "337",
+              "from": {
+                "x": "12322",
+                "y": "11109.2",
+                "z": "500.185"
+              },
+              "point": {
+                "x": "11440.728",
+                "y": "11610.308",
+                "z": "11440.728"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "90",
+              "description": "Shot 1 338 yds to left fairway, 90 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "78",
+              "from": {
+                "x": "11440.728",
+                "y": "11610.308",
+                "z": "11440.728"
+              },
+              "point": {
+                "x": "11329.468",
+                "y": "11817.059",
+                "z": "11329.468"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "12",
+              "description": "Shot 2 78 yds to green, 37 ft 8 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "11",
+              "from": {
+                "x": "11329.468",
+                "y": "11817.059",
+                "z": "11329.468"
+              },
+              "point": {
+                "x": "11303.665",
+                "y": "11839.358",
+                "z": "11303.665"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "4.0'",
+              "description": "Shot 3 putt 34 ft 1 in., 3 ft 6 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "4",
+              "distance": "1",
+              "from": {
+                "x": "11303.665",
+                "y": "11839.358",
+                "z": "11303.665"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 4 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "440",
+          "hole": "15",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": "5U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "0",
+          "putts": "dafuq is this",
+          "strokes": "0",
+          "pbp": {
+            "shots": []
+          },
+          "yards": "565",
+          "hole": "16",
+          "fir": false,
+          "par": "5",
+          "to_par": "dafuq is this",
+          "status": ""
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "0",
+          "putts": "dafuq is this",
+          "strokes": "0",
+          "pbp": {
+            "shots": []
+          },
+          "yards": "150",
+          "hole": "17",
+          "fir": false,
+          "par": "3",
+          "to_par": "dafuq is this",
+          "status": ""
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "0",
+          "putts": "dafuq is this",
+          "strokes": "0",
+          "pbp": {
+            "shots": []
+          },
+          "yards": "368",
+          "hole": "18",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": ""
+        }]
+      },
+      "course_name": "Austin Country Club",
+      "thru": "dafuq is this value come from",
+      "scoring_type": "dafuq is this",
+      "host_course": true
+    }
+  }, {
+    "holes": [{
+      "hole": "1",
+      "winner": "30925",
+      "score_status": "1U"
+    }, {
+      "hole": "2",
+      "winner": "30925",
+      "score_status": "2U"
+    }, {
+      "hole": "3",
+      "winner": "",
+      "score_status": "2U"
+    }, {
+      "hole": "4",
+      "winner": "30925",
+      "score_status": "3U"
+    }, {
+      "hole": "5",
+      "winner": "30925",
+      "score_status": "4U"
+    }, {
+      "hole": "6",
+      "winner": "30925",
+      "score_status": "5U"
+    }, {
+      "hole": "7",
+      "winner": "30925",
+      "score_status": "6U"
+    }, {
+      "hole": "8",
+      "winner": "",
+      "score_status": "6U"
+    }, {
+      "hole": "9",
+      "winner": "",
+      "score_status": "6U"
+    }, {
+      "hole": "10",
+      "winner": "",
+      "score_status": "6U"
+    }, {
+      "hole": "11",
+      "winner": "25632",
+      "score_status": "5U"
+    }, {
+      "hole": "12",
+      "winner": "25632",
+      "score_status": "4U"
+    }, {
+      "hole": "13",
+      "winner": "",
+      "score_status": "4U"
+    }, {
+      "hole": "14",
+      "winner": "",
+      "score_status": "4U"
+    }, {
+      "hole": "15",
+      "winner": "30925",
+      "score_status": "5U"
+    }, {
+      "hole": "16",
+      "winner": "",
+      "score_status": ""
+    }, {
+      "hole": "17",
+      "winner": "",
+      "score_status": ""
+    }, {
+      "hole": "18",
+      "winner": "",
+      "score_status": ""
+    }],
+    "pid": "25632",
+    "scorecard": {
+      "round_scorecard": {
+        "current_round": false,
+        "round": "3",
+        "course_id": "185",
+        "current_hole": "dafuq is this value come from",
+        "group_id": "95",
+        "holes": [{
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "-1",
+          "putts": "dafuq is this",
+          "strokes": "4",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "295",
+              "from": {
+                "x": "10592.8",
+                "y": "10520.4",
+                "z": "596.255"
+              },
+              "point": {
+                "x": "11143.530",
+                "y": "9825.984",
+                "z": "11143.530"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "105",
+              "description": "Shot 1 295 yds to left fairway, 105 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "95",
+              "from": {
+                "x": "11143.530",
+                "y": "9825.984",
+                "z": "11143.530"
+              },
+              "point": {
+                "x": "11396.202",
+                "y": "9688.903",
+                "z": "11396.202"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "29.0'",
+              "description": "Shot 2 96 yds to green, 28 ft 8 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "9",
+              "from": {
+                "x": "11396.202",
+                "y": "9688.903",
+                "z": "11396.202"
+              },
+              "point": {
+                "x": "11423.310",
+                "y": "9678.789",
+                "z": "11423.310"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "8''",
+              "description": "Shot 3 putt 28 ft 11 in., 8 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "4",
+              "distance": "0",
+              "from": {
+                "x": "11423.310",
+                "y": "9678.789",
+                "z": "11423.310"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 4 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "394",
+          "hole": "1",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": "1U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "-1",
+          "putts": "dafuq is this",
+          "strokes": "5",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "286",
+              "from": {
+                "x": "11503.1",
+                "y": "9597.09",
+                "z": "580.03"
+              },
+              "point": {
+                "x": "10844.425",
+                "y": "9046.748",
+                "z": "10844.425"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "198",
+              "description": "Shot 1 286 yds to right fairway, 199 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "207",
+              "from": {
+                "x": "10844.425",
+                "y": "9046.748",
+                "z": "10844.425"
+              },
+              "point": {
+                "x": "10791.099",
+                "y": "8426.312",
+                "z": "10791.099"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "14",
+              "description": "Shot 2 208 yds to left rear green side bunker, 42 ft 8 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "15",
+              "from": {
+                "x": "10791.099",
+                "y": "8426.312",
+                "z": "10791.099"
+              },
+              "point": {
+                "x": "10762.691",
+                "y": "8462.514",
+                "z": "10762.691"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "7.0'",
+              "description": "Shot 3 46 ft 0 in. to green, 6 ft 10 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "4",
+              "distance": "2",
+              "from": {
+                "x": "10762.691",
+                "y": "8462.514",
+                "z": "10762.691"
+              },
+              "point": {
+                "x": "10759.604",
+                "y": "8454.631",
+                "z": "10759.604"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "15''",
+              "description": "Shot 4 putt 8 ft 6 in., 15 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "5",
+              "distance": "0",
+              "from": {
+                "x": "10759.604",
+                "y": "8454.631",
+                "z": "10759.604"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 5 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "470",
+          "hole": "2",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": "2U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "0",
+          "putts": "dafuq is this",
+          "strokes": "4",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "238",
+              "from": {
+                "x": "10650",
+                "y": "8549.27",
+                "z": "595.725"
+              },
+              "point": {
+                "x": "10154.163",
+                "y": "8034.452",
+                "z": "10154.163"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "175",
+              "description": "Shot 1 238 yds to fairway bunker, 176 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "190",
+              "from": {
+                "x": "10154.163",
+                "y": "8034.452",
+                "z": "10154.163"
+              },
+              "point": {
+                "x": "9787.716",
+                "y": "7595.097",
+                "z": "9787.716"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "15",
+              "description": "Shot 2 191 yds to green, 47 ft 0 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "15",
+              "from": {
+                "x": "9787.716",
+                "y": "7595.097",
+                "z": "9787.716"
+              },
+              "point": {
+                "x": "9826.523",
+                "y": "7620.948",
+                "z": "9826.523"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "5''",
+              "description": "Shot 3 putt 46 ft 8 in., 5 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "4",
+              "distance": "0",
+              "from": {
+                "x": "9826.523",
+                "y": "7620.948",
+                "z": "9826.523"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 4 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "440",
+          "hole": "3",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": "2U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "-1",
+          "putts": "dafuq is this",
+          "strokes": "4",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "177",
+              "from": {
+                "x": "9902.04",
+                "y": "7465.58",
+                "z": "631.417"
+              },
+              "point": {
+                "x": "9476.599",
+                "y": "7147.060",
+                "z": "9476.599"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "21",
+              "description": "Shot 1 177 yds to green, 64 ft 10 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "17",
+              "from": {
+                "x": "9476.599",
+                "y": "7147.060",
+                "z": "9476.599"
+              },
+              "point": {
+                "x": "9458.798",
+                "y": "7197.741",
+                "z": "9458.798"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "12.0'",
+              "description": "Shot 2 putt 53 ft 9 in., 11 ft 2 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "4",
+              "from": {
+                "x": "9458.798",
+                "y": "7197.741",
+                "z": "9458.798"
+              },
+              "point": {
+                "x": "9456.702",
+                "y": "7209.966",
+                "z": "9456.702"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "14''",
+              "description": "Shot 3 putt 12 ft 5 in., 14 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "4",
+              "distance": "0",
+              "from": {
+                "x": "9456.702",
+                "y": "7209.966",
+                "z": "9456.702"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 4 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "185",
+          "hole": "4",
+          "fir": false,
+          "par": "3",
+          "to_par": "dafuq is this",
+          "status": "3U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "-1",
+          "putts": "dafuq is this",
+          "strokes": "5",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "239",
+              "from": {
+                "x": "9315.62",
+                "y": "7166.84",
+                "z": "642.713"
+              },
+              "point": {
+                "x": "9606.221",
+                "y": "7824.121",
+                "z": "9606.221"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "130",
+              "description": "Shot 1 240 yds to right fairway, 131 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "152",
+              "from": {
+                "x": "9606.221",
+                "y": "7824.121",
+                "z": "9606.221"
+              },
+              "point": {
+                "x": "9903.195",
+                "y": "8173.049",
+                "z": "9903.195"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "21",
+              "description": "Shot 2 153 yds to right rough, 65 ft 9 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "24",
+              "from": {
+                "x": "9903.195",
+                "y": "8173.049",
+                "z": "9903.195"
+              },
+              "point": {
+                "x": "9855.229",
+                "y": "8116.753",
+                "z": "9855.229"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "9.0'",
+              "description": "Shot 3 74 ft 0 in. to green, 8 ft 9 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "4",
+              "distance": "3",
+              "from": {
+                "x": "9855.229",
+                "y": "8116.753",
+                "z": "9855.229"
+              },
+              "point": {
+                "x": "9859.233",
+                "y": "8126.491",
+                "z": "9859.233"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "22''",
+              "description": "Shot 4 putt 10 ft 6 in., 22 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "5",
+              "distance": "0",
+              "from": {
+                "x": "9859.233",
+                "y": "8126.491",
+                "z": "9859.233"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 5 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "370",
+          "hole": "5",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": "4U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "-1",
+          "putts": "dafuq is this",
+          "strokes": "4",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "315",
+              "from": {
+                "x": "9953.05",
+                "y": "8148.92",
+                "z": "634.021"
+              },
+              "point": {
+                "x": "10419.496",
+                "y": "8972.898",
+                "z": "10419.496"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "261",
+              "description": "Shot 1 316 yds to left fairway, 261 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "242",
+              "from": {
+                "x": "10419.496",
+                "y": "8972.898",
+                "z": "10419.496"
+              },
+              "point": {
+                "x": "10867.768",
+                "y": "9543.567",
+                "z": "10867.768"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "19",
+              "description": "Shot 2 242 yds to left fairway, 58 ft 0 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "17",
+              "from": {
+                "x": "10867.768",
+                "y": "9543.567",
+                "z": "10867.768"
+              },
+              "point": {
+                "x": "10907.833",
+                "y": "9578.480",
+                "z": "10907.833"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "6.0'",
+              "description": "Shot 3 53 ft 2 in. to green, 6 ft 0 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "4",
+              "distance": "2",
+              "from": {
+                "x": "10907.833",
+                "y": "9578.480",
+                "z": "10907.833"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 4 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "590",
+          "hole": "6",
+          "fir": false,
+          "par": "5",
+          "to_par": "dafuq is this",
+          "status": "5U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "-1",
+          "putts": "dafuq is this",
+          "strokes": "3",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "190",
+              "from": {
+                "x": "10681.6",
+                "y": "9519.44",
+                "z": "629.022"
+              },
+              "point": {
+                "x": "10309.577",
+                "y": "9954.441",
+                "z": "10309.577"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "30.0'",
+              "description": "Shot 1 191 yds to fringe, 29 ft 1 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "9",
+              "from": {
+                "x": "10309.577",
+                "y": "9954.441",
+                "z": "10309.577"
+              },
+              "point": {
+                "x": "10303.769",
+                "y": "9927.956",
+                "z": "10303.769"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "23''",
+              "description": "Shot 2 27 ft 2 in. to green, 23 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "0",
+              "from": {
+                "x": "10303.769",
+                "y": "9927.956",
+                "z": "10303.769"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 3 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "201",
+          "hole": "7",
+          "fir": false,
+          "par": "3",
+          "to_par": "dafuq is this",
+          "status": "6U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "0",
+          "putts": "dafuq is this",
+          "strokes": "3",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "286",
+              "from": {
+                "x": "9957.37",
+                "y": "10312",
+                "z": "612.402"
+              },
+              "point": {
+                "x": "9414.262",
+                "y": "9645.195",
+                "z": "9414.262"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "205",
+              "description": "Shot 1 287 yds to left fairway, 205 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "207",
+              "from": {
+                "x": "9414.262",
+                "y": "9645.195",
+                "z": "9414.262"
+              },
+              "point": {
+                "x": "8891.745",
+                "y": "9308.517",
+                "z": "8891.745"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "10",
+              "description": "Shot 2 207 yds to left rough, 31 ft 6 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "10",
+              "from": {
+                "x": "8891.745",
+                "y": "9308.517",
+                "z": "8891.745"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 3 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "498",
+          "hole": "8",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": "6U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "0",
+          "putts": "dafuq is this",
+          "strokes": "4",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "284",
+              "from": {
+                "x": "8645.29",
+                "y": "9379.23",
+                "z": "659.049"
+              },
+              "point": {
+                "x": "9215.951",
+                "y": "10011.060",
+                "z": "9215.951"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "177",
+              "description": "Shot 1 284 yds to right rough, 178 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "167",
+              "from": {
+                "x": "9215.951",
+                "y": "10011.060",
+                "z": "9215.951"
+              },
+              "point": {
+                "x": "9646.876",
+                "y": "10266.037",
+                "z": "9646.876"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "11",
+              "description": "Shot 2 167 yds to green, 35 ft 0 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "12",
+              "from": {
+                "x": "9646.876",
+                "y": "10266.037",
+                "z": "9646.876"
+              },
+              "point": {
+                "x": "9685.303",
+                "y": "10267.673",
+                "z": "9685.303"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "4.0'",
+              "description": "Shot 3 putt 38 ft 6 in., 3 ft 1 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "4",
+              "distance": "1",
+              "from": {
+                "x": "9685.303",
+                "y": "10267.673",
+                "z": "9685.303"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 4 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "490",
+          "hole": "9",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": "6U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "0",
+          "putts": "dafuq is this",
+          "strokes": "4",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "276",
+              "from": {
+                "x": "10867.3",
+                "y": "10876.3",
+                "z": "583.689"
+              },
+              "point": {
+                "x": "11451.222",
+                "y": "10285.414",
+                "z": "11451.222"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "112",
+              "description": "Shot 1 277 yds to left fairway, 113 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "109",
+              "from": {
+                "x": "11451.222",
+                "y": "10285.414",
+                "z": "11451.222"
+              },
+              "point": {
+                "x": "11779.005",
+                "y": "10297.333",
+                "z": "11779.005"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "15.0'",
+              "description": "Shot 2 109 yds to fringe, 14 ft 11 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "5",
+              "from": {
+                "x": "11779.005",
+                "y": "10297.333",
+                "z": "11779.005"
+              },
+              "point": {
+                "x": "11789.618",
+                "y": "10285.245",
+                "z": "11789.618"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "11''",
+              "description": "Shot 3 16 ft 1 in. to green, 11 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "4",
+              "distance": "0",
+              "from": {
+                "x": "11789.618",
+                "y": "10285.245",
+                "z": "11789.618"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 4 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "393",
+          "hole": "10",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": "6U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "1",
+          "putts": "dafuq is this",
+          "strokes": "2",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "171",
+              "from": {
+                "x": "11524.9",
+                "y": "10439.9",
+                "z": "573.007"
+              },
+              "point": {
+                "x": "11202.289",
+                "y": "10839.037",
+                "z": "11202.289"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "5.0'",
+              "description": "Shot 1 171 yds to green, 4 ft 9 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "1",
+              "from": {
+                "x": "11202.289",
+                "y": "10839.037",
+                "z": "11202.289"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 2 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "194",
+          "hole": "11",
+          "fir": false,
+          "par": "3",
+          "to_par": "dafuq is this",
+          "status": "5U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "1",
+          "putts": "dafuq is this",
+          "strokes": "3",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "324",
+              "from": {
+                "x": "11061.1",
+                "y": "10782.8",
+                "z": "578.4"
+              },
+              "point": {
+                "x": "10888.774",
+                "y": "11739.148",
+                "z": "10888.774"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "234",
+              "description": "Shot 1 325 yds to right rough, 235 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "230",
+              "from": {
+                "x": "10888.774",
+                "y": "11739.148",
+                "z": "10888.774"
+              },
+              "point": {
+                "x": "10710.833",
+                "y": "12406.643",
+                "z": "10710.833"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "13",
+              "description": "Shot 2 230 yds to right fairway, 40 ft 9 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "13",
+              "from": {
+                "x": "10710.833",
+                "y": "12406.643",
+                "z": "10710.833"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 3 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "578",
+          "hole": "12",
+          "fir": false,
+          "par": "5",
+          "to_par": "dafuq is this",
+          "status": "4U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "0",
+          "putts": "dafuq is this",
+          "strokes": "3",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "205",
+              "from": {
+                "x": "10783.4",
+                "y": "12653",
+                "z": "494.846"
+              },
+              "point": {
+                "x": "11050.163",
+                "y": "12098.190",
+                "z": "11050.163"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "92",
+              "description": "Shot 1 205 yds to left fairway, 92 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "92",
+              "from": {
+                "x": "11050.163",
+                "y": "12098.190",
+                "z": "11050.163"
+              },
+              "point": {
+                "x": "11305.167",
+                "y": "11987.659",
+                "z": "11305.167"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "18.0'",
+              "description": "Shot 2 93 yds to fringe, 17 ft 5 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "5",
+              "from": {
+                "x": "11305.167",
+                "y": "11987.659",
+                "z": "11305.167"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 3 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "317",
+          "hole": "13",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": "4U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "0",
+          "putts": "dafuq is this",
+          "strokes": "4",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "318",
+              "from": {
+                "x": "11302.7",
+                "y": "12228.4",
+                "z": "497.154"
+              },
+              "point": {
+                "x": "11914.063",
+                "y": "11493.633",
+                "z": "11914.063"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "151",
+              "description": "Shot 1 319 yds to right fairway, 152 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "143",
+              "from": {
+                "x": "11914.063",
+                "y": "11493.633",
+                "z": "11914.063"
+              },
+              "point": {
+                "x": "12274.231",
+                "y": "11259.332",
+                "z": "12274.231"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "10",
+              "description": "Shot 2 143 yds to green, 30 ft 11 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "10",
+              "from": {
+                "x": "12274.231",
+                "y": "11259.332",
+                "z": "12274.231"
+              },
+              "point": {
+                "x": "12304.977",
+                "y": "11261.339",
+                "z": "12304.977"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "1''",
+              "description": "Shot 3 putt 30 ft 10 in., 1 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "4",
+              "distance": "0",
+              "from": {
+                "x": "12304.977",
+                "y": "11261.339",
+                "z": "12304.977"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 4 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "465",
+          "hole": "14",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": "4U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "-1",
+          "putts": "dafuq is this",
+          "strokes": "5",
+          "pbp": {
+            "shots": [{
+              "stroke": "1",
+              "distance": "302",
+              "from": {
+                "x": "12322",
+                "y": "11109.2",
+                "z": "500.185"
+              },
+              "point": {
+                "x": "11593.319",
+                "y": "11650.716",
+                "z": "11593.319"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "116",
+              "description": "Shot 1 303 yds to fairway bunker, 116 yds to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "2",
+              "distance": "102",
+              "from": {
+                "x": "11593.319",
+                "y": "11650.716",
+                "z": "11593.319"
+              },
+              "point": {
+                "x": "11331.193",
+                "y": "11813.740",
+                "z": "11331.193"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "13",
+              "description": "Shot 2 103 yds to fringe, 41 ft 1 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "3",
+              "distance": "13",
+              "from": {
+                "x": "11331.193",
+                "y": "11813.740",
+                "z": "11331.193"
+              },
+              "point": {
+                "x": "11299.870",
+                "y": "11837.015",
+                "z": "11299.870"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "5.0'",
+              "description": "Shot 3 39 ft 0 in. to green, 4 ft 6 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "4",
+              "distance": "2",
+              "from": {
+                "x": "11299.870",
+                "y": "11837.015",
+                "z": "11299.870"
+              },
+              "point": {
+                "x": "11300.748",
+                "y": "11845.627",
+                "z": "11300.748"
+              },
+              "cup": false,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "4.0'",
+              "description": "Shot 4 putt 8 ft 8 in., 3 ft 10 in. to hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }, {
+              "stroke": "5",
+              "distance": "1",
+              "from": {
+                "x": "11300.748",
+                "y": "11845.627",
+                "z": "11300.748"
+              },
+              "point": {
+                "x": "0",
+                "y": "0",
+                "z": "0"
+              },
+              "cup": true,
+              "position_description": "dafuq is this",
+              "dist_to_pin": "0''",
+              "description": "Shot 5 in the hole",
+              "timestamp": "dafuq is this (needs conversion from some kinda int)",
+              "type": "dafuq is this (maybe just '-')"
+            }]
+          },
+          "yards": "440",
+          "hole": "15",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": "5U"
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "0",
+          "putts": "dafuq is this",
+          "strokes": "0",
+          "pbp": {
+            "shots": []
+          },
+          "yards": "565",
+          "hole": "16",
+          "fir": false,
+          "par": "5",
+          "to_par": "dafuq is this",
+          "status": ""
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "0",
+          "putts": "dafuq is this",
+          "strokes": "0",
+          "pbp": {
+            "shots": []
+          },
+          "yards": "150",
+          "hole": "17",
+          "fir": false,
+          "par": "3",
+          "to_par": "dafuq is this",
+          "status": ""
+        }, {
+          "gir": false,
+          "round_to_par": "",
+          "hole_status": "0",
+          "putts": "dafuq is this",
+          "strokes": "0",
+          "pbp": {
+            "shots": []
+          },
+          "yards": "368",
+          "hole": "18",
+          "fir": false,
+          "par": "4",
+          "to_par": "dafuq is this",
+          "status": ""
+        }]
+      },
+      "course_name": "Austin Country Club",
+      "thru": "dafuq is this value come from",
+      "scoring_type": "dafuq is this",
+      "host_course": true
+    }
+  }]
+}
